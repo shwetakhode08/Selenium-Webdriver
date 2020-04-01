@@ -32,10 +32,12 @@ Permanent path Set-
 
 (Eclipse Installation)
 - Download eclipse photon
+
   https://www.eclipse.org/downloads/packages/release/photon/r
 - Download for java developers
 
 - Download Eclipse 
+
 https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-jee-luna-SR2-win32-x86_64.zip
 
 Note: Download Java compatible Eclipse Version
@@ -45,8 +47,8 @@ Note: Download Java compatible Eclipse Version
 
 
 (Selenium)
-Download Selenium
-Link for Selenium official Site :	
+- Download Selenium
+- Link for Selenium official Site :	
 http://www.seleniumhq.org
 
 
