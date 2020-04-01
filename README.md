@@ -14,7 +14,7 @@ Interface
 -You need to create a instance of API and later you can use method in your program.
 
 
-      Installing and Configurations to Setup Selenium
+ Installing and Configurations to Setup Selenium
 
 (Java Installation)
 - Download Java from below link
@@ -23,12 +23,12 @@ http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 (Configure Java path in systen variable --- Ways to Save Path in Java)
 Permanent path Set-
-Right click on My Computers<< Properties << Advance system settings<<Environment Variable << under user variable << New or Edit << type variable is path and value = jdk/bin path
+                         Right click on My Computers<< Properties << Advance system settings<<Environment Variable << under user       variable << New or Edit << type variable is path and value = jdk/bin path
 
 
 (Eclipse Installation)
 - Download eclipse photon
-https://www.eclipse.org/downloads/packages/release/photon/r
+                        https://www.eclipse.org/downloads/packages/release/photon/r
 Download for java developers
 
 - Download Eclipse 
