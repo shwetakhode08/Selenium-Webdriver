@@ -25,10 +25,14 @@ Selenium Web driver
 
 
 
+
+
 (Configure Java path in systen variable --- Ways to Save Path in Java)
 
 - Permanent path Set-
 -  Right click on My Computers<< Properties << Advance system settings<<Environment Variable << under user       variable << New or Edit << type variable is path and value = jdk/bin path
+
+
 
 
 
@@ -49,6 +53,8 @@ Note: Download Java compatible Eclipse Version
 
 
 
+
+
 (Selenium)
 - Download Selenium
 - Link for Selenium official Site :
@@ -60,12 +66,17 @@ http://www.seleniumhq.org
 
 
 
+
+
 (Selenium WebDriver Jar Download)
 - Download Selenium Jar 3.12 from below location
 
 
 http://selenium-release.storage.googleapis.com/index.html?path=3.12/
 - Eclipse Program
+
+
+
 
 
 
