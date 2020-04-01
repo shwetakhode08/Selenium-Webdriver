@@ -14,6 +14,8 @@ Selenium Web driver
 -You need to create a instance of API and later you can use method in your program.
 
 
+
+
      Installing and Configurations to Setup Selenium
 
 (Java Installation)
@@ -88,3 +90,26 @@ http://selenium-release.storage.googleapis.com/index.html?path=3.12/
 
 https://chromedriver.storage.googleapis.com/index.html?path=2.41/
 - Selenium Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
