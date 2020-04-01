@@ -14,11 +14,11 @@ Interface
 -You need to create a instance of API and later you can use method in your program.
 
 
- Installing and Configurations to Setup Selenium
+Installing and Configurations to Setup Selenium
 
 (Java Installation)
 - Download Java from below link
-http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
+                                       http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 
 (Configure Java path in systen variable --- Ways to Save Path in Java)
